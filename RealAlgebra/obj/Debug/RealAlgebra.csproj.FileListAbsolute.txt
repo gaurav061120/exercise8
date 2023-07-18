@@ -1,0 +1,11 @@
+C:\Exer 8\RealAlgebra\obj\Debug\RealAlgebra.csproj.AssemblyReference.cache
+C:\Exer 8\RealAlgebra\obj\Debug\RealAlgebra.csproj.SuggestedBindingRedirects.cache
+C:\Exer 8\RealAlgebra\obj\Debug\RealAlgebra.csproj.CoreCompileInputs.cache
+C:\Exer 8\RealAlgebra\bin\Debug\RealAlgebra.exe.config
+C:\Exer 8\RealAlgebra\bin\Debug\RealAlgebra.exe
+C:\Exer 8\RealAlgebra\bin\Debug\RealAlgebra.pdb
+C:\Exer 8\RealAlgebra\bin\Debug\ShapeAreaLib.dll
+C:\Exer 8\RealAlgebra\bin\Debug\ShapeAreaLib.pdb
+C:\Exer 8\RealAlgebra\obj\Debug\RealAlgebra.csproj.CopyComplete
+C:\Exer 8\RealAlgebra\obj\Debug\RealAlgebra.exe
+C:\Exer 8\RealAlgebra\obj\Debug\RealAlgebra.pdb

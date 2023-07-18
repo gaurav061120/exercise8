@@ -1,0 +1,6 @@
+C:\Exer 8\ShapeAreaLib\bin\Debug\ShapeAreaLib.dll
+C:\Exer 8\ShapeAreaLib\bin\Debug\ShapeAreaLib.pdb
+C:\Exer 8\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.AssemblyReference.cache
+C:\Exer 8\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.CoreCompileInputs.cache
+C:\Exer 8\ShapeAreaLib\obj\Debug\ShapeAreaLib.dll
+C:\Exer 8\ShapeAreaLib\obj\Debug\ShapeAreaLib.pdb
